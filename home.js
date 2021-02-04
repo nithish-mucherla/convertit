@@ -31,7 +31,7 @@ const loadCountryCodes = async () => {
     {
       method: "GET",
       headers: {
-        "x-rapidapi-key": "<USE YOUR API KEY>",
+        "x-rapidapi-key": "USE YOUR API KEY",
         "x-rapidapi-host": "currency-converter13.p.rapidapi.com",
       },
     }
@@ -48,7 +48,7 @@ const convert = async () => {
     {
       method: "GET",
       headers: {
-        "x-rapidapi-key": "<USE YOUR API KEY>",
+        "x-rapidapi-key": "USE YOUR API KEY",
         "x-rapidapi-host": "currency-converter13.p.rapidapi.com",
       },
     }
